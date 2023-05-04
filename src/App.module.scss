@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-grow: 1;
+  flex-shrink: 0;
+  color: #cd2323;
+  width: 100vw;
+  overflow: hidden;
 }
 
 .App-logo {
